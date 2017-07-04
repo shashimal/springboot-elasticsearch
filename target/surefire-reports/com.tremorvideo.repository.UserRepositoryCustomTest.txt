@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tremorvideo.repository.UserRepositoryCustomTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.079 sec - in com.tremorvideo.repository.UserRepositoryCustomTest

@@ -1,0 +1,16 @@
+com/tremorvideo/model/SearchQuery.class
+com/tremorvideo/model/User.class
+com/tremorvideo/repository/UserRepository.class
+com/tremorvideo/repository/UserRepositoryCustom.class
+com/tremorvideo/controller/AbstractController.class
+com/tremorvideo/ElasticsearchConfig.class
+com/tremorvideo/TremorvideoApplication.class
+com/tremorvideo/util/UniqueIDUtil.class
+com/tremorvideo/controller/AutoSuggestionController.class
+com/tremorvideo/model/SearchField.class
+com/tremorvideo/repository/UserRepositoryCustomImpl.class
+com/tremorvideo/service/UserService.class
+com/tremorvideo/exception/AppServiceException.class
+com/tremorvideo/enums/UserType.class
+com/tremorvideo/controller/UserController.class
+com/tremorvideo/service/UserServiceImpl.class
